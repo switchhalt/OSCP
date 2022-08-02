@@ -12,7 +12,7 @@ Useful Scripts
 
  * Linux
   * Bash
-    * [Exploit Suggester](https://raw.githubusercontent.com/switchhalt/OSCP-Prep/main/scripts/linux/bash/mzet-exploit-suggester.sh)
+    * [exploit-suggester.sh](https://raw.githubusercontent.com/switchhalt/OSCP-Prep/main/scripts/linux/bash/mzet-exploit-suggester.sh) by [@mzet-](https://github.com/mzet-/)
   * Python
     * [privchecker.py](https://raw.githubusercontent.com/switchhalt/OSCP-Prep/main/scripts/linux/python/privchecker.py) by Mike Czumak (T_v3rn1x) -- @SecuritySift
   * Perl
