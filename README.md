@@ -8,7 +8,7 @@ I mostly created this repo for my self, but i think others may find some of thes
 
 
 
-Useful Scripts
+# Useful Scripts
 
   * Linux
     * Bash
